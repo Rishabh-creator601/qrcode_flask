@@ -15,7 +15,7 @@ def decode(image):
 	    
 	    
 
-print('PART 1 ')
+
 
 IMAGE_FOLDER = os.path.join('static')
 FILES_FOLDER = os.path.join('files')
@@ -23,7 +23,7 @@ app = Flask(__name__,template_folder='templates')
 app.config['IMAGE_FOLDER'] = IMAGE_FOLDER 
 app.config['FILES'] = FILES_FOLDER
 
-print('PART 2')
+
 
 img = None
 
