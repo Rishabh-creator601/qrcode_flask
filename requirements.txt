@@ -1,0 +1,7 @@
+flask
+qrcode
+opencv-python-headless
+os
+werkzeug
+gunicorn 
+whitenoise 
