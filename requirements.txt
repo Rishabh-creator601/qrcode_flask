@@ -1,6 +1,6 @@
-flask
-qrcode
-opencv-python
-werkzeug
-gunicorn 
-whitenoise 
+flask==
+qrcode==
+opencv-python==
+werkzeug==
+gunicorn==
+whitenoise==
