@@ -1,7 +1,6 @@
 flask
 qrcode
-opencv-python-headless
-os
+opencv-python
 werkzeug
 gunicorn 
 whitenoise 
